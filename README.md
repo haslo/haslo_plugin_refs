@@ -18,7 +18,8 @@ Just a collection of things I use for reference while developing plugins.
 
 * Paper, [The bowed string and its playability](physical_modelling/bowed_string_playability.pdf) (Hossein Mansour)
 * Paper, [On the synthesis of guitar plucks](physical_modelling/On_the_synthesis_of_guitar_plucks.pdf) (Jim Woodhouse)
-* Book, [Physical Audio Signal Processing](https://ccrma.stanford.edu/~jos/pasp/) (Julius O. Smith III)
+* Book, [Physical Audio Signal Processing](https://ccrma.stanford.edu/~jos/pasp/) (Julius O. Smith)
+* YouTube, [Sound synthesis based on physical models](https://www.youtube.com/watch?v=dUcNzPhZdwk) (Julius O. Smith)
 * YouTube, [Physical modelling of guitar strings](https://www.youtube.com/watch?v=sxt5rxF_PdI) (Martin Shuppius)
 
 ## Meta, Other Plugin Stuffs
