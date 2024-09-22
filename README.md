@@ -1,4 +1,4 @@
-# haslo's References
+# haslo's Plugin References
 
 Just a collection of things I use for reference while developing plugins.
 
