@@ -24,4 +24,11 @@ Just a collection of things I use for reference while developing plugins.
 
 ## Meta, Other Plugin Stuffs
 
-* [Analogue Modelling Plugins](meta/Analogue%20modelling%20plugins.pdf) (Alain Paul)
+* Paper, [Listener Preference not for Analogue Modelling Plugins](meta/Analogue%20modelling%20plugins.pdf) (Alain Paul)
+
+## C++ and Realtime
+
+* YouTube, [C++ in the Audio Industry](https://www.youtube.com/watch?v=boPEO2auJj4) (Timur Doumler, CppCon 2015)
+* YouTube, [Real-time 101 - part I: Investigating the real-time problem space](https://www.youtube.com/watch?v=Q0vrQFyAdWI) (Fabian Renn-Giles & Dave Rowland, ADC 19)
+* YouTube, [Real-time 101 - Part II: The real-time audio developer’s toolbox](https://www.youtube.com/watch?v=PoZAo2Vikbo) (Dave Rowland & Fabian Renn-Giles, ADC 19)
+* Library, [farbot - FAbian's Realtime Box o' Tricks](https://github.com/hogliux/farbot) (Fabian Renn-Giles)
