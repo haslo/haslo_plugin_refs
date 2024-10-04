@@ -9,6 +9,7 @@ Just a collection of things I use for reference while developing plugins.
 * Book, [Designing Software Synthesizer Plugins in C++](https://www.willpirkle.com/synthbook/) (Will C. Pirkle)
 * Book, [Designing Audio Effect Plugins in C++](https://www.willpirkle.com/fx-book/) (Will C. Pirkle)
 * Book, [Signals, Sound and Sensation](https://web.pa.msu.edu/acoustics/ssands.htm) (William M. Hartmann)
+* Book, [DAFX - Digital Audio Effects](https://dafx.de/DAFX_Book_Page_2nd_edition/index.html) (edited by Udo Zölzer)
 
 ### C++ and Realtime
 
@@ -34,9 +35,9 @@ Just a collection of things I use for reference while developing plugins.
 * Talk, [Sound synthesis based on physical models](https://www.youtube.com/watch?v=dUcNzPhZdwk) (Julius O. Smith, CIRMMT 2010) - [Slides](https://www.cirmmt.org/en/events/distinguished-lectures/smith-slides)
 * Talk, [Physical modelling of guitar strings](https://www.youtube.com/watch?v=sxt5rxF_PdI) (Martin Shuppius, ADC 2017)
 
-### Meta, Other Plugin Stuffs
+### Conferences
 
-* Paper, [Listener Preference not for Analogue Modelling Plugins](https://www.apmastering.com/#studies) (Alain Paul)
+* Conference, [DAFX](https://dafx.de/)
 
 ## The Flowchart
 
