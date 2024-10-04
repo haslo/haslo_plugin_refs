@@ -10,21 +10,21 @@ Just a collection of things I use for reference while developing plugins.
 
 ## Distortion
 
-* Paper, [Reducing Aliasing of Waveshaping Using Convolution](distortion/Reducing%20Aliasing%20Waveshaping.pdf) (Native Instruments)
-* Paper, [Alias Suppression in Digital Distortion](distortion/AADistortion.pdf) (Martin Vicanek)
-* Paper, [Waveshaper Harmonics](distortion/WaveshaperHarmonix.pdf) (Martin Vicanek)
+* Paper, [Reducing Aliasing of Waveshaping Using Convolution](http://dafx16.vutbr.cz/dafxpapers/20-DAFx-16_paper_41-PN.pdf) (Native Instruments)
+* Paper, [Alias Suppression in Digital Distortion](https://vicanek.de/articles/AADistortion.pdf) (Martin Vicanek)
+* Paper, [Waveshaper Harmonics](https://vicanek.de/articles/WaveshaperHarmonix.pdf) (Martin Vicanek)
 
 ## Physical Modelling
 
-* Paper, [The bowed string and its playability](physical_modelling/bowed_string_playability.pdf) (Hossein Mansour)
-* Paper, [On the synthesis of guitar plucks](physical_modelling/On_the_synthesis_of_guitar_plucks.pdf) (Jim Woodhouse)
+* Paper, [The bowed string and its playability](https://escholarship.mcgill.ca/downloads/q811kn41m.pdf) (Hossein Mansour)
+* Paper, [On the synthesis of guitar plucks](https://www.researchgate.net/publication/228935188_On_the_synthesis_of_guitar_plucks) (Jim Woodhouse)
 * Book, [Physical Audio Signal Processing](https://ccrma.stanford.edu/~jos/pasp/) (Julius O. Smith)
 * YouTube, [Sound synthesis based on physical models](https://www.youtube.com/watch?v=dUcNzPhZdwk) (Julius O. Smith)
 * YouTube, [Physical modelling of guitar strings](https://www.youtube.com/watch?v=sxt5rxF_PdI) (Martin Shuppius)
 
 ## Meta, Other Plugin Stuffs
 
-* Paper, [Listener Preference not for Analogue Modelling Plugins](meta/Analogue%20modelling%20plugins.pdf) (Alain Paul)
+* Paper, [Listener Preference not for Analogue Modelling Plugins](https://www.apmastering.com/#studies) (Alain Paul)
 
 ## C++ and Realtime
 
