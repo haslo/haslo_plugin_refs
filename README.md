@@ -30,6 +30,7 @@ Just a collection of things I use for reference while developing plugins.
 ## C++ and Realtime
 
 * Talk, [C++ in the Audio Industry](https://www.youtube.com/watch?v=boPEO2auJj4) (Timur Doumler, CppCon 2015)
-* Talk, [Real-time 101 - part I: Investigating the real-time problem space](https://www.youtube.com/watch?v=Q0vrQFyAdWI) (Fabian Renn-Giles & Dave Rowland, ADC 2019) - [Slides (both parts)](https://github.com/drowaudio/presentations/tree/master/ADC%202019%20-%20Real-time%20101)
-* Talk, [Real-time 101 - Part II: The real-time audio developer’s toolbox](https://www.youtube.com/watch?v=PoZAo2Vikbo) (Dave Rowland & Fabian Renn-Giles, ADC 2019) - [Slides (both parts)](https://github.com/drowaudio/presentations/tree/master/ADC%202019%20-%20Real-time%20101)
+* Talk, **Real-time 101** (Fabian Renn-Giles & Dave Rowland, ADC 2019) - [Slides (both parts)](https://github.com/drowaudio/presentations/tree/master/ADC%202019%20-%20Real-time%20101)
+  * [Part I: Investigating the real-time problem space](https://www.youtube.com/watch?v=Q0vrQFyAdWI)
+  * [Part II: The real-time audio developer’s toolbox](https://www.youtube.com/watch?v=PoZAo2Vikbo)
 * Library, [farbot - FAbian's Realtime Box o' Tricks](https://github.com/hogliux/farbot) (Fabian Renn-Giles)
