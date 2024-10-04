@@ -11,6 +11,10 @@ Just a collection of things I use for reference while developing plugins.
 * Book, [Signals, Sound and Sensation](https://web.pa.msu.edu/acoustics/ssands.htm) (William M. Hartmann)
 * Book, [DAFX - Digital Audio Effects](https://dafx.de/DAFX_Book_Page_2nd_edition/index.html) (edited by Udo Zölzer)
 
+### C++ and JUCE structure
+
+* Talk [CMake For The Uninitiated](https://www.youtube.com/watch?v=8kF0Ea2VuXA) (Eyal Amir) - [repository](https://github.com/eyalamirmusic/JUCECmakeRepoPrototype)
+
 ### C++ and Realtime
 
 * Talk, **C++ in the Audio Industry** (Timur Doumler)
