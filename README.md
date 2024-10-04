@@ -4,9 +4,9 @@ Just a collection of things I use for reference while developing plugins.
 
 ## Generic Plugin Dev & DSP
 
-* Book, **Designing Software Synthesizer Plugins in C++** (Will C. Pirkle)
-* Book, **Designing Audio Effect Plugins in C++** (Will C. Pirkle)
-* Book, **Signals, Sound and Sensation** (William M. Hartmann)
+* Book, [Designing Software Synthesizer Plugins in C++](https://www.willpirkle.com/synthbook/) (Will C. Pirkle)
+* Book, [Designing Audio Effect Plugins in C++](https://www.willpirkle.com/fx-book/) (Will C. Pirkle)
+* Book, [Signals, Sound and Sensation](https://web.pa.msu.edu/acoustics/ssands.htm) (William M. Hartmann)
 
 ## Distortion
 
