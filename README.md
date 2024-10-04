@@ -8,6 +8,14 @@ Just a collection of things I use for reference while developing plugins.
 * Book, [Designing Audio Effect Plugins in C++](https://www.willpirkle.com/fx-book/) (Will C. Pirkle)
 * Book, [Signals, Sound and Sensation](https://web.pa.msu.edu/acoustics/ssands.htm) (William M. Hartmann)
 
+## C++ and Realtime
+
+* Talk, [C++ in the Audio Industry](https://www.youtube.com/watch?v=boPEO2auJj4) (Timur Doumler, CppCon 2015)
+* Talk, **Real-time 101** (Fabian Renn-Giles & Dave Rowland, ADC 2019) - [Slides (both parts)](https://github.com/drowaudio/presentations/tree/master/ADC%202019%20-%20Real-time%20101)
+  * [Part I: Investigating the real-time problem space](https://www.youtube.com/watch?v=Q0vrQFyAdWI)
+  * [Part II: The real-time audio developer’s toolbox](https://www.youtube.com/watch?v=PoZAo2Vikbo)
+* Library, [farbot - FAbian's Realtime Box o' Tricks](https://github.com/hogliux/farbot) (Fabian Renn-Giles)
+
 ## Distortion
 
 * Paper, [Reducing Aliasing of Waveshaping Using Convolution](https://dafx16.vutbr.cz/dafxpapers/20-DAFx-16_paper_41-PN.pdf) (Native Instruments)
@@ -26,11 +34,3 @@ Just a collection of things I use for reference while developing plugins.
 ## Meta, Other Plugin Stuffs
 
 * Paper, [Listener Preference not for Analogue Modelling Plugins](https://www.apmastering.com/#studies) (Alain Paul)
-
-## C++ and Realtime
-
-* Talk, [C++ in the Audio Industry](https://www.youtube.com/watch?v=boPEO2auJj4) (Timur Doumler, CppCon 2015)
-* Talk, **Real-time 101** (Fabian Renn-Giles & Dave Rowland, ADC 2019) - [Slides (both parts)](https://github.com/drowaudio/presentations/tree/master/ADC%202019%20-%20Real-time%20101)
-  * [Part I: Investigating the real-time problem space](https://www.youtube.com/watch?v=Q0vrQFyAdWI)
-  * [Part II: The real-time audio developer’s toolbox](https://www.youtube.com/watch?v=PoZAo2Vikbo)
-* Library, [farbot - FAbian's Realtime Box o' Tricks](https://github.com/hogliux/farbot) (Fabian Renn-Giles)
