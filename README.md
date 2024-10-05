@@ -27,7 +27,9 @@ Just a collection of things I use for reference while developing plugins.
   * [Part I: Optimizations, races, and the memory model; acquire and release ordering](https://www.youtube.com/watch?v=A8eCGOqgvH4)
   * [Part II: Restrictions on compilers and hardware; code generation and performance; relaxed atomics; volatile](https://www.youtube.com/watch?v=KeLBd2EJLOU)
 * Library, [farbot - FAbian's Realtime Box o' Tricks](https://github.com/hogliux/farbot) (Fabian Renn-Giles)
-* Blog Post, [Real-time audio programming 101: time waits for nothing](http://www.rossbencina.com/code/real-time-audio-programming-101-time-waits-for-nothing)
+* Blog Posts by Ross Bencina:
+  * [Real-time audio programming 101: time waits for nothing](http://www.rossbencina.com/code/real-time-audio-programming-101-time-waits-for-nothing)
+  * [Some notes on lock-free and wait-free algorithms](http://www.rossbencina.com/code/lockfree)
 
 ### Distortion
 
