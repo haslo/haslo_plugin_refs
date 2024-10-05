@@ -2,6 +2,13 @@
 
 Just a collection of things I use for reference while developing plugins.
 
+## Libraries
+
+### FFT
+
+* [FFTW](https://www.fftw.org/) - GPL!
+* [pffft](https://bitbucket.org/jpommier/pffft/src/master/)
+
 ## Links, Papers, Talks, Books
 
 ### Generic Plugin Dev & DSP
