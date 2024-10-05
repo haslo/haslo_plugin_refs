@@ -24,8 +24,8 @@ Just a collection of things I use for reference while developing plugins.
   * [Part I: Investigating the real-time problem space](https://www.youtube.com/watch?v=Q0vrQFyAdWI)
   * [Part II: The real-time audio developer’s toolbox](https://www.youtube.com/watch?v=PoZAo2Vikbo)
 * Talk, **atomic weapons** (Herb Sutter, C++ and Beyond 2012) - [blog post](https://herbsutter.com/2013/02/11/atomic-weapons-the-c-memory-model-and-modern-hardware/)
-  * [Part I](https://www.youtube.com/watch?v=A8eCGOqgvH4)
-  * [Part II](https://www.youtube.com/watch?v=KeLBd2EJLOU)
+  * [Part I: Optimizations, races, and the memory model; acquire and release ordering; mutexes vs. atomics vs. fences](https://www.youtube.com/watch?v=A8eCGOqgvH4)
+  * [Part II: Restrictions on compilers and hardware (incl. common bugs); code generation and performance on x86/x64, IA64, POWER, ARM, and more; relaxed atomics; volatile](https://www.youtube.com/watch?v=KeLBd2EJLOU)
 * Library, [farbot - FAbian's Realtime Box o' Tricks](https://github.com/hogliux/farbot) (Fabian Renn-Giles)
 * Blog Post, [Real-time audio programming 101: time waits for nothing](http://www.rossbencina.com/code/real-time-audio-programming-101-time-waits-for-nothing)
 
