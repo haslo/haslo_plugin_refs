@@ -17,6 +17,7 @@ Just a collection of things I use for reference while developing plugins.
 * Book, [Designing Audio Effect Plugins in C++](https://www.willpirkle.com/fx-book/) (Will C. Pirkle)
 * Book, [Signals, Sound and Sensation](https://web.pa.msu.edu/acoustics/ssands.htm) (William M. Hartmann)
 * Book, [DAFX - Digital Audio Effects](https://dafx.de/DAFX_Book_Page_2nd_edition/index.html) (edited by Udo Zölzer)
+* Book, [Sound Synthesis for Music Reproduction and Performance](https://winntbg.bg.agh.edu.pl/skrypty4/0612/) (Marek Pluta)
 
 ### C++ and JUCE structure
 
@@ -60,6 +61,10 @@ Just a collection of things I use for reference while developing plugins.
 ### Conferences
 
 * Conference, [DAFX](https://dafx.de/)
+
+### Link Collections
+
+* [Resources recommended for learning audio programming](https://thewolfsound.com/resources/) (WolfSound)
 
 ## The Flowchart
 
