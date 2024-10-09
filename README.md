@@ -38,6 +38,7 @@ Just a collection of things I use for reference while developing plugins.
 * Blog Posts by Ross Bencina:
   * [Real-time audio programming 101: time waits for nothing](http://www.rossbencina.com/code/real-time-audio-programming-101-time-waits-for-nothing)
   * [Some notes on lock-free and wait-free algorithms](http://www.rossbencina.com/code/lockfree)
+* Talk, [Real-time Confessions in C++](https://www.youtube.com/watch?v=JG7lqt7V1uY) (Fabian Renn-Giles, ADC23)
 
 ### Distortion
 
