@@ -2,13 +2,6 @@
 
 Just a collection of things I use for reference while developing plugins.
 
-## Libraries
-
-### FFT
-
-* [FFTW](https://www.fftw.org/) - GPL!
-* [pffft](https://bitbucket.org/jpommier/pffft/src/master/)
-
 ## Links, Papers, Talks, Books
 
 ### Generic Plugin Dev & DSP
@@ -40,6 +33,10 @@ Just a collection of things I use for reference while developing plugins.
   * [Some notes on lock-free and wait-free algorithms](http://www.rossbencina.com/code/lockfree)
 * Talk, [Real-time Confessions in C++](https://www.youtube.com/watch?v=JG7lqt7V1uY) (Fabian Renn-Giles, ADC23)
 
+### JS & C++, Frontend to Backend
+
+* Talk, [Build a High Performance Audio App With a Web GUI & C++](https://www.youtube.com/watch?v=xXPT8GAEozs) (Colin Sullivan, Kevin Dixon, ADC23)
+
 ### Distortion
 
 * Paper, [Reducing Aliasing of Waveshaping Using Convolution](https://dafx16.vutbr.cz/dafxpapers/20-DAFx-16_paper_41-PN.pdf) (Native Instruments)
@@ -67,6 +64,15 @@ Just a collection of things I use for reference while developing plugins.
 
 * [Resources recommended for learning audio programming](https://thewolfsound.com/resources/) (WolfSound)
 
+## Libraries
+
+### FFT
+
+* [FFTW](https://www.fftw.org/) - GPL!
+* [pffft](https://bitbucket.org/jpommier/pffft/src/master/)
+
 ## The Flowchart
+
+...for realtime C++
 
 ![The Flowchart](pics/flowchart.png)
